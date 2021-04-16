@@ -1,8 +1,17 @@
-# webapp
+# CCMap
 
-## Project setup
+## 简介
 ```
-npm install
+基于Electron-vue框架开发的思维导图系统，搭配Cordova，生成Web、Desktop、Android应用程序
+采用SVG实现思维导图的生成和导出
+服务器基于Express等Node框架实现
+暂时仅上传了Vue开发的Web app
+```
+
+## Main Function
+```
+Mind Map Edit
+Mind Map Export
 ```
 
 ### Compiles and hot-reloads for development
@@ -15,5 +24,3 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
