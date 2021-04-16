@@ -16,5 +16,5 @@ Mind Map Export
 
 ## 展示
 ```
-https://c-mirrors.github.io/CCMap/#/edit
+[CCMap](https://c-mirrors.github.io/CCMap/#/edit)
 ```
