@@ -8,19 +8,13 @@
 暂时仅上传了Vue开发的Web app
 ```
 
-## Main Function
+## 主要功能
 ```
 Mind Map Edit
 Mind Map Export
 ```
 
-### Compiles and hot-reloads for development
+## 展示
 ```
-npm run serve
+https://c-mirrors.github.io/CCMap/#/edit
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
