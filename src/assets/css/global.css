@@ -1,0 +1,71 @@
+/* 全局样式表 */
+html, body, #app{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: "Glyphicons Halflings", "Microsoft YaHei";
+}
+
+ul {
+    list-style-type: none;
+}
+
+.el-card {
+    height: 430px;
+    line-height: 20px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15) !important;
+}
+
+.el-table {
+    width: 100%;
+    border-radius: 5px;
+    box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.1);
+}
+
+.el-table .el-button{
+    margin: 0 5px;
+}
+
+.el-dialog {
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.el-menu{
+    background-color: #126e82 !important;
+    color: #fffef9 !important;
+}
+
+.el-submenu__title{
+    background-color: #126e82 !important;
+    color: #fffef9 !important;
+}
+
+.el-menu-item {
+    background-color: #126e82 !important;
+    color: #fffef9 !important;
+}
+
+.el-menu-item.is-active {
+    background-color: #0f95b0 !important;
+    color: #f9f4dc !important;
+}
+
+.el-dropdown{
+    position: absolute;
+    right: 50px;
+    color: #eef7f2;
+}
+
+.el-breadcrumb{
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+
+.el-breadcrumb__inner {
+    color: #eef7f2 !important;
+}
+
+.el-breadcrumb__separator{
+    color: #eef7f2;
+}
